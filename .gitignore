@@ -4,7 +4,7 @@ coverage
 coverage.json
 typechain
 .gitignore
-
+package-lock.json
 
 #Hardhat files
 cache
